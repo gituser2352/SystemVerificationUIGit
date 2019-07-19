@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="systemV.SystemVUIHomePageHeaderlinksTest" duration-ms="40024" started-at="2019-07-19T07:57:11Z" finished-at="2019-07-19T07:57:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="40024" started-at="2019-07-19T07:57:11Z" finished-at="2019-07-19T07:57:51Z">
+      <class name="systemV.SystemVUIHomePageHeaderlinksTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:systemV.SystemVUIHomePageHeaderlinksTest@37918c79]" name="initialize" is-config="true" duration-ms="7967" started-at="2019-07-19T07:57:11Z" finished-at="2019-07-19T07:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyHomePageHeaderlinks()[pri:0, instance:systemV.SystemVUIHomePageHeaderlinksTest@37918c79]" name="VerifyHomePageHeaderlinks" duration-ms="31960" started-at="2019-07-19T07:57:19Z" finished-at="2019-07-19T07:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageHeaderlinks -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:systemV.SystemVUIHomePageHeaderlinksTest@37918c79]" name="teardown" is-config="true" duration-ms="80" started-at="2019-07-19T07:57:51Z" finished-at="2019-07-19T07:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- systemV.SystemVUIHomePageHeaderlinksTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- systemV.SystemVUIHomePageHeaderlinksTest -->
+</testng-results>
